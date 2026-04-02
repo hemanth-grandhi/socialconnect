@@ -86,9 +86,6 @@ Chat functionality
 Improved user interface
 Deployment to cloud platforms
 
-## Author
-
-Your Name
 
 ## Note
 
